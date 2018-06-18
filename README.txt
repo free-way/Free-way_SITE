@@ -1,6 +1,4 @@
-Pure Html and Js
+free-way 
 
-next phase it to angularise it
-
-sorry for the dellay :) , u were right i do have huge internet problems
+beta site
 
